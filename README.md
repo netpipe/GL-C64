@@ -9,6 +9,7 @@ https://github.com/netpipe/CommodoreOS/tree/main/tests/GL -- some random tests
 
 https://github.com/daybyter/gcc-6502/tree/master grafdemo was from here
 https://github.com/heroineworshiper/glxgears64
+a 3d doom https://csdb.dk/release/?id=81157
 todo
 
 
