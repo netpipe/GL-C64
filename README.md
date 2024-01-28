@@ -9,4 +9,7 @@ https://github.com/netpipe/CommodoreOS/blob/main/math2.c
 https://github.com/daybyter/gcc-6502/tree/master grafdemo was from here
 https://github.com/heroineworshiper/glxgears64
 todo
-sin cos lookup table for speedups ?
+
+
+here is whats acheivable on the same hardware.
+https://www.youtube.com/watch?v=ntPcV-SdXpg
